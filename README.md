@@ -1,15 +1,15 @@
 <h1 align="center">Hello &lt;coders/&gt;</h1>
 
 <h3 align="center">I'm Morad ElNahla 👋</h3>
-<h4 align="center">Data Scientist | Machine Learning | Data Visualization | AI Enthusiast</h4>
+<h4 align="center">Data Scientist | Data Analysis | AI Engineer | Data Visualization</h4>
 
 ---
 
 ### 👨‍💻 About Me
-🎯 Passionate about extracting insights from data and building machine learning models that make an impact.  
-🧠 Skilled in **Data Science, AI, and Predictive Modeling**.  
+🎯 Passionate about extracting insights from data and building solutions powered by AI.  
+🧠 Skilled in **Data Science, Data Analysis, and Predictive Modeling**.  
 📊 Love turning raw data into clear and meaningful visual stories.  
-💬 Always open to collaborations in **Machine Learning, AI, and Data Analysis**.  
+💬 Always open to collaborations in **Data Analysis, AI, and Data Science projects**.  
 📫 Reach me on [LinkedIn](https://linkedin.com/in/morad-elnahla)
 
 ---
@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 **Languages & Tools:**  
-`Python` | `R` | `SQL` | `JavaScript`  
+`Python` | `SQL` | `JavaScript`  
 `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `TensorFlow` | `Power BI` | `Tableau`
 
 **Development Tools:**  
@@ -26,21 +26,18 @@
 ---
 
 ### 🚀 GitHub Stats
-<center>
-
-<!-- NOTE: replace "morad-elnahla" below with your actual GitHub username if different -->
-<img src="https://github-readme-stats.vercel.app/api?username=morad-elnahla&show_icons=true&theme=radical" alt="Morad's GitHub Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morad-elnahla&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-
-</center>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=morad-elnahla&show_icons=true&theme=radical" alt="Morad's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morad-elnahla&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
 
 ---
 
 ### 🧠 Current Focus
-- Building scalable **ML models**  
-- Exploring **Data Engineering** pipelines  
-- Enhancing **Deep Learning** skills  
-- Automating **Data Visualization** dashboards
+- Building scalable **AI-driven data solutions**  
+- Exploring **Data Engineering pipelines**  
+- Creating **Automated Data Dashboards**  
+- Enhancing **Predictive Analytics** skills  
 
 ---
 
