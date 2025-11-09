@@ -1,26 +1,54 @@
-<div align="center" width="50">
+<h1 align="center">Hello <coders/></h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Data Scientist at work" width="40%"/><br>
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=MoradElnahla&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MoradElnahla&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Linkedin Badge](https://img.shields.io/badge/-Morad%20ElNahla-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/morad-elnahla)
-
-</div>
+<h3 align="center">I'm Morad ElNahla 👋</h3>
+<h4 align="center">Data Scientist | Machine Learning | Data Visualization | AI Enthusiast</h4>
 
 ---
 
-## 🧠 About Me
+### 👨‍💻 About Me
+🎯 Passionate about extracting insights from data and building machine learning models that make an impact.  
+🧠 Skilled in **Data Science, AI, and Predictive Modeling**.  
+📊 Love turning raw data into clear and meaningful visual stories.  
+💬 Always open to collaborations in **Machine Learning, AI, and Data Analysis**.  
+📫 Reach me on [LinkedIn](https://linkedin.com/in/morad-elnahla)
 
-```python
-class MoradElNahla:
-    role = "Data Scientist"
-    interests = ["Machine Learning", "Data Visualization", "Big Data", "AI Applications"]
-    languages = ["Python", "SQL", "R", "JavaScript"]
-    tools = ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn", "TensorFlow", "Power BI", "Tableau"]
-    fun_fact = "Turning raw data into stories that matter 📊"
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Tools:**  
+`Python` | `R` | `SQL` | `JavaScript`  
+`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `TensorFlow` | `Power BI` | `Tableau`
+
+**Development Tools:**  
+`Git` | `VS Code` | `Jupyter Notebook` | `Linux`
+
+---
+
+### 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoradElnahla&show_icons=true&theme=radical" alt="Morad's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoradElnahla&theme=radical" alt="Morad's Streak Stats" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoradElnahla&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+### 🧠 Current Focus
+- Building scalable **ML models**
+- Exploring **Data Engineering pipelines**
+- Enhancing **Deep Learning** skills  
+- Automating **Data Visualization dashboards**
+
+---
+
+### 📈 Fun Fact
+> “Data is the new oil — but only if you know how to refine it.”  
+
+---
+
+<p align="center">⭐ From <a href="https://github.com/MoradElnahla">Morad ElNahla</a></p>
