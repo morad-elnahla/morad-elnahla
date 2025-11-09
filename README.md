@@ -1,4 +1,4 @@
-<h1 align="center">Hello <coders/></h1>
+<h1 align="center">Hello &lt;coders/&gt;</h1>
 
 <h3 align="center">I'm Morad ElNahla 👋</h3>
 <h4 align="center">Data Scientist | Machine Learning | Data Visualization | AI Enthusiast</h4>
@@ -26,29 +26,27 @@
 ---
 
 ### 🚀 GitHub Stats
+<center>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoradElnahla&show_icons=true&theme=radical" alt="Morad's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoradElnahla&theme=radical" alt="Morad's Streak Stats" width="48%"/>
-</p>
+<!-- NOTE: replace "morad-elnahla" below with your actual GitHub username if different -->
+<img src="https://github-readme-stats.vercel.app/api?username=morad-elnahla&show_icons=true&theme=radical" alt="Morad's GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morad-elnahla&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoradElnahla&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
-</p>
+</center>
 
 ---
 
 ### 🧠 Current Focus
-- Building scalable **ML models**
-- Exploring **Data Engineering pipelines**
+- Building scalable **ML models**  
+- Exploring **Data Engineering** pipelines  
 - Enhancing **Deep Learning** skills  
-- Automating **Data Visualization dashboards**
+- Automating **Data Visualization** dashboards
 
 ---
 
 ### 📈 Fun Fact
-> “Data is the new oil — but only if you know how to refine it.”  
+> “Data is the new oil — but only if you know how to refine it.”
 
 ---
 
-<p align="center">⭐ From <a href="https://github.com/MoradElnahla">Morad ElNahla</a></p>
+<p align="center">⭐ From <a href="https://github.com/morad-elnahla">Morad ElNahla</a></p>
