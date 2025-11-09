@@ -15,7 +15,9 @@
 🧠 Skilled in **Data Science, Data Analysis, and Predictive Modeling**.  
 📊 Love turning raw data into clear and meaningful visual stories.  
 💬 Always open to collaborations in **Data Analysis, AI, and Data Science projects**.  
-📫 Reach me on [LinkedIn](https://linkedin.com/in/morad-elnahla)
+
+🔗 Contact Me
+<p align="center"> <a href="https://linkedin.com/in/morad-elnahla" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:moradelnahla@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://wa.me/201065432198" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> </p>
 
 ---
 
