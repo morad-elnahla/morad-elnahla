@@ -5,7 +5,7 @@
 
 </div>
 
-<h3 align="center">I'm Morad ElNahla 👋</h3>
+<h3 align="center">I'm Morad HOMLANDER 👋</h3>
 <h4 align="center">Data Scientist | Data Analysis | AI Engineer | Data Visualization</h4>
 
 ---
@@ -22,11 +22,11 @@
 ### 🛠️ Tech Stack
 
 **Languages & Tools:**  
-`Python` | `SQL` | `JavaScript`  
-`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `TensorFlow` | `Power BI` | `Tableau`
+`Python` | `SQL`  
+`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `TensorFlow` | `Power BI` | `Colab` | `Excel` | `Google Sheets`
 
 **Development Tools:**  
-`Git` | `VS Code` | `Jupyter Notebook` | `Linux`
+`VS Code` | `Jupyter Notebook`
 
 ---
 
