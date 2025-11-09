@@ -1,4 +1,9 @@
-<h1 align="center">Hello &lt;coders/&gt;</h1>
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Data Scientist at work" width="40%"/><br>
+
+</div>
 
 <h3 align="center">I'm Morad ElNahla 👋</h3>
 <h4 align="center">Data Scientist | Data Analysis | AI Engineer | Data Visualization</h4>
@@ -6,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-🎯 Passionate about extracting insights from data and building solutions powered by AI.  
+🎯 Passionate about extracting insights from data and building AI-powered solutions.  
 🧠 Skilled in **Data Science, Data Analysis, and Predictive Modeling**.  
 📊 Love turning raw data into clear and meaningful visual stories.  
 💬 Always open to collaborations in **Data Analysis, AI, and Data Science projects**.  
