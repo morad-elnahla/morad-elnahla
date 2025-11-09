@@ -5,8 +5,8 @@
 
 </div>
 
-<h3 align="center">I'm Morad HOMLANDER 👋</h3>
-<h4 align="center">Data Scientist | Data Analysis | AI Engineer | Data Visualization</h4>
+<h3 align="center">I'm Morad ElNahla 👋</h3>
+<h4 align="center">Data Scientist | Data Analysis | AI Engineer </h4>
 
 ---
 
