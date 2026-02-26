@@ -6,7 +6,7 @@
 </div>
 
 <h3 align="center">I'm Morad ElNahla 👋</h3>
-<h4 align="center">Machine Learning Engineer | AI Developer</h4>
+<h4 align="center">Machine Learning Engineer | Deep Learning</h4>
 
 ---
 
