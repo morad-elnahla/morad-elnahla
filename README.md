@@ -33,10 +33,32 @@
 ---
 
 ### 🚀 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morad-elnahla&show_icons=true&theme=radical" alt="Morad's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morad-elnahla&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morad-elnahla&theme=tokyonight" 
+  />
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=morad-elnahla&theme=tokyonight" 
+    height="165"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morad-elnahla&theme=tokyonight" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=morad-elnahla&theme=tokyonight" 
+    height="165"
+  />
+</p>
+
+<br><br><br>
 
 ---
 
