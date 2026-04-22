@@ -1,36 +1,55 @@
 <div align="center" width="50">
 
-<h1 align="center">🚀 Turning Data into Decisions</h1>
+<h1 align="center">🚀 Building AI Systems that Solve Real Problems</h1>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Data Scientist at work" width="40%"/><br>
 
 </div>
 
 <h3 align="center">I'm Morad ElNahla 👋</h3>
-<h4 align="center">Machine Learning Engineer | Deep Learning</h4>
-
+<h4 align="center">Machine Learning Engineer | AI Engineer</h4>
 ---
 
 ### 👨‍💻 About Me
-🎯 Passionate about extracting insights from data and building AI-powered solutions.  
-🧠 Skilled in **Data Science, Data Analysis, and Predictive Modeling**.  
-📊 Love turning raw data into clear and meaningful visual stories.  
-💬 Always open to collaborations in **Data Analysis, AI, and Data Science projects**.  
+🚀 ML/AI Engineer building **production-ready systems** (APIs, LLM tools, ML pipelines).  
+⚙️ Experienced in **FastAPI, Docker, Hugging Face deployment**, and end-to-end ML workflows.  
+🧠 Worked on **LLM-powered tools, dynamic pricing models, and deep learning systems**.  
+📊 Focused on delivering **real-world impact**, not just models.  
 
 🔗 Contact Me
 <p align="center"> <a href="https://linkedin.com/in/morad-elnahla" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:moradelnahla@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://wa.me/201024011971" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/> </a> </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Featured Projects
 
-**Languages & Tools:**  
-`Python` | `SQL`  
-`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Scikit-learn` | `TensorFlow` | `Power BI` | `Colab` | `Excel` | `Google Sheets`
+💡 **CVscore – AI Resume Analyzer (LLM-based)**  
+Analyze resumes with AI scoring & structured feedback  
+👉 [Live Demo](https://huggingface.co/spaces/morad-elna7la/CVscore) | [GitHub](https://github.com/morad-elnahla/CVscore)
 
-**Development Tools:**  
-`VS Code` | `Jupyter Notebook`
+💰 **SmartPrice Engine – Dynamic Pricing API**  
+Real-time ML pricing using XGBoost with REST API  
+👉 [Live Demo](https://huggingface.co/spaces/morad-elna7la/smartprice-engine) | [GitHub](https://github.com/morad-elnahla/smartprice-engine)
+
+📉 **ChurnGuard – Customer Churn Prediction API**  
+Predict customer churn risk with ML model & live interface  
+👉 [Live Demo](https://huggingface.co/spaces/morad-elna7la/churn-prediction) | [GitHub](https://github.com/morad-elnahla/churn-prediction)
 
 ---
+
+
+### 🛠️ Tech Stack
+
+**ML / AI:**  
+`Scikit-learn` | `XGBoost` | `TensorFlow` | `CNN` | `LLMs`  
+
+**Backend & Deployment:**  
+`FastAPI` | `Docker` | `Hugging Face Spaces`  
+
+**Data:**  
+`Pandas` | `NumPy` | `Matplotlib`  
+
+**Tools:**  
+`Git` | `GitHub` | `Jupyter`
 
 ### 🚀 GitHub Stats
 
@@ -63,10 +82,10 @@
 ---
 
 ### 🧠 Current Focus
-- Building scalable **AI-driven data solutions**  
-- Exploring **Data Engineering pipelines**  
-- Creating **Automated Data Dashboards**  
-- Enhancing **Predictive Analytics** skills  
+- Building **LLM-powered applications**
+- Designing **production ML APIs**
+- Improving **model performance & deployment pipelines**
+- Learning **scalable ML systems (MLOps)**  
 
 ---
 
